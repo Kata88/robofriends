@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'Geometrico ExtraLight';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Geometrico ExtraLight'), url('Geometrico.woff') format('woff');
+    }
+
+h1 {
+   font-family: 'Geometrico ExtraLight';
+   font-weight: 500;
+   color:  rgba(203,249,247,1); 
+}
